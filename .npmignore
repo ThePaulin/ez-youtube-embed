@@ -1,0 +1,38 @@
+node_modules/
+dist/
+docs/
+src/
+
+#ignore test files
+src/**/*.test.*
+# https://docs.npmjs.com/misc/developers#keeping-files-out-of-your-package
+
+#tests
+test
+coverage
+
+#build tools
+.babelrc
+.parcel-cache
+
+
+#docs
+.storybook
+src/**/*.stories.*
+src/stories
+
+
+#linters
+.jscsrc
+.jshintrc
+.eslintrc*
+.prettierrc.js
+tsconfig.json
+
+#tests
+jest.config.js
+jest.setup.js
+
+#editor settings
+.idea
+.editorconfig

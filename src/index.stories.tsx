@@ -12,7 +12,7 @@ type Story = StoryObj<typeof meta>
 
 export const Default: Story = {
   args: {
-    url: 'https://www.youtube.com/watch?v=bWvVeFeNrhw\n',
+    url: 'https://www.youtube.com/watch?v=bWvVeFeNrhw\n\n',
     width: '400',
     height: '200',
     frameBorder: '0',
