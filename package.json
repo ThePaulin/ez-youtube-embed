@@ -1,6 +1,6 @@
 {
   "name": "ez-youtube-embed",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Effortlessly embed YouTube videos in your projects!",
   "main": "dist/index.js",
   "module": "dist/module.js",

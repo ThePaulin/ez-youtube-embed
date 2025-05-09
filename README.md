@@ -28,6 +28,8 @@ title (string, optional): The title attribute for the iframe. Defaults to 'YouTu
 allow (string, optional): Custom allow attribute for the iframe. Defaults to 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'.
 and all the other iframe tag attibutes are supported
 
+**view on Strorybook**: https://thepaulin.github.io/ez-youtube-embed/?path=/story/index--default
+
 ## Return Value
 The function returns an HTMLIFrameElement configured with the provided properties and the correct YouTube embed URL.
 Features
